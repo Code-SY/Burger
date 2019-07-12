@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(247, 139, 38);
+}
+
+h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 4em;
+}
+
+.responsive {
+    width: 30%;
+    /*position: fixed;*/
+}
+
+h2,
+.red_font {
+    font-family: 'Fredericka the Great', cursive;
+    color: #30237a;
+}
+
+.form-control {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-stretch: extra-expanded;
+    color: rgb(77, 8, 122);
+}
