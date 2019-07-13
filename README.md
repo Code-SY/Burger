@@ -34,3 +34,5 @@ Is a restaurant app that lets users input the names of burgers they'd like to ea
 * Create a .env file to store your MySQL password;
 * Verify database connection information;
 * Start the server.
+
+![Burger](public/assets/img/SitePage.png)
